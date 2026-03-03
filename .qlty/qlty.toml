@@ -5,6 +5,6 @@ name = "default"
 default = true
 
 [[source]]
-name = "qlty-shared-config"
+name = "dh-sandbox"
 repository = "https://github.com/dh-sandbox/qlty-shared-config"
 branch = "main"

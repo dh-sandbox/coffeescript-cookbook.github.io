@@ -1,0 +1,10 @@
+config_version = "0"
+
+[[source]]
+name = "default"
+default = true
+
+[[source]]
+name = "qlty-shared-config"
+repository = "https://github.com/dh-sandbox/qlty-shared-config"
+branch = "main"
